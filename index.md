@@ -1,11 +1,9 @@
 ## Welcome to Jayjesda GitHub Pages
 
 
-
-
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+SAWASDEEKUB >_<
 
 ```markdown
 Syntax highlighted code block
