@@ -2,11 +2,6 @@
 
 
 ### ------------------------ ###
-╔╦╦╦═╦╗╔═╦═╦══╦═╗
-║║║║╩╣╚╣═╣║║║║║╩╣   TO   JESDA WORD
-╚══╩═╩═╩═╩═╩╩╩╩═╝
-
-SAWASDEEKUB >_<
 
 ```markdown
 Syntax highlighted code block
