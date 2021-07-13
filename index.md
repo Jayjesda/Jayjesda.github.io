@@ -1,5 +1,5 @@
 ## Welcome to Jayjesda GitHub Pages
-<img src="GoDuck.png" alt="Branching">
+<img src="https://e7.pngegg.com/pngimages/842/277/png-clipart-rubber-duck-rubber-duck.png" alt="Branching">
 
 ```markdown
 Syntax highlighted code block
