@@ -1,5 +1,6 @@
 ## Welcome to Jayjesda GitHub Pages
-<img src="https://s.isanook.com/hi/0/ud/277/1388523/untitled-5.jpg" alt="Branching">
+<img src="GoDuck.png" alt="Branching">
+
 ```markdown
 Syntax highlighted code block
 
