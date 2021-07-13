@@ -1,5 +1,5 @@
 ## Welcome to Jayjesda GitHub Pages
-
+<img src="https://s.isanook.com/hi/0/ud/277/1388523/untitled-5.jpg" alt="Branching">
 ```markdown
 Syntax highlighted code block
 
@@ -8,7 +8,7 @@ Syntax highlighted code block
 HELLO TO JESDA WORDCODE
 
 ## Header 2
-<img src="https://s.isanook.com/ca/0/ui/279/1396205/download20190701165129_1562561119.jpg" alt="Branching">
+
 ### Header 3
 
 - Bulleted
