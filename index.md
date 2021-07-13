@@ -1,6 +1,5 @@
 ## Welcome to Jayjesda GitHub Pages
 
-
 ```markdown
 Syntax highlighted code block
 
@@ -9,7 +8,7 @@ Syntax highlighted code block
 HELLO TO JESDA WORDCODE
 
 ## Header 2
-
+<img src="https://s.isanook.com/ca/0/ui/279/1396205/download20190701165129_1562561119.jpg" alt="Branching">
 ### Header 3
 
 - Bulleted
@@ -22,12 +21,11 @@ HELLO TO JESDA WORDCODE
 
 [Link](url) and ![Image](src)
 ```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-<img src="https://s.isanook.com/ca/0/ui/279/1396205/download20190701165129_1562561119.jpg" alt="Branching">
+
 
 ### Support or Contact
 
