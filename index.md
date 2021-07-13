@@ -1,6 +1,5 @@
 ## Welcome to Jayjesda GitHub Pages
 
-### ------------------------
 
 ```markdown
 Syntax highlighted code block
