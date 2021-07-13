@@ -1,5 +1,5 @@
 ## Welcome to Jayjesda GitHub Pages
-<img src="https://i.pinimg.com/originals/d8/b8/06/d8b8069d405d24fbce7dd432b0c845f6.png" alt="Branching">
+<img src="https://i.pinimg.com/originals/d8/b8/06/d8b8069d405d24fbce7dd432b0c845f6.png"width="100"  height="200" alt="Branching">
 
 ```markdown
 Syntax highlighted code block
