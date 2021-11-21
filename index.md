@@ -27,10 +27,10 @@
   <div class="col">
 <div class="card" style="width: 18rem;">
 
-  <CENTER> <img src="/img/giphy9.gif" width="100px" height="120px"> </CENTER> 
+  <CENTER> <img src="/img/giphy.gif" width="100px" height="120px"> </CENTER> 
   <div class="card-body">
     <CENTER><h5 class="card-title"><B>About me</B></h5></CENTER>
-    <CENTER><p class="card-text"> เกี่ยวกับตัวกระผมเองงับ</p></CENTER>
+    <CENTER><p class="card-text"> เกี่ยวกับตัวกระผมเองงับ กดเข้ามาดูได้เลย</p><br></CENTER>
     <CENTER> <a href=" Aboutme.html " class="btn btn-danger"> CLICK</a> </CENTER>
   </div>
 </div>
