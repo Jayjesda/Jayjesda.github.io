@@ -48,15 +48,16 @@
   </div>
 
   <div class="col">
-    <div class="card" style="width: 18rem;">
-    <CENTER> <img src="/img/GoDuck.png" width="100px" height="120px"> </CENTER> 
-      <div class="card-body">
-        <h5 class="card-title"> TODO application on JS with DOM </h5>
-        <p class="card-text">React Shopping Cart.</p>
-        <a href="#" class="btn btn-danger">Go</a>
-      </div>
+  <div class="card" style="width: 18rem;">
+   <CENTER> <img src="/img/GoDuck.png" width="100px" height="120px"> </CENTER> 
+    <div class="card-body">
+     <CENTER><h5 class="card-title"> <font size="5"><B> 3D Training </B></font> </h5></CENTER>  
+    <CENTER><p class="card-text"> TODO application on JS with DOM </p></CENTER>
+    <CENTER> <a href=" index3d.html " class="btn btn-danger"> CLICK</a> </CENTER>
     </div>
-    </div>
+  </div>
+  </div>
+
 
   <div class="col">
     <div class="card" style="width: 18rem;">
