@@ -36,7 +36,7 @@
 </div>
 </div>
 
-<div class="col-lg-*">
+<div class="col">
   <div class="card" style="width: 18rem;">
    <CENTER> <img src="/img/GoDuck.png" width="100px" height="120px"> </CENTER> 
     <div class="card-body">
