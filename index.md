@@ -52,7 +52,7 @@
   <div class="card" style="width: 18rem;">
    <CENTER> <img src="/img/2.jpg"> </CENTER> 
     <div class="card-body">
-     <CENTER><h5 class="card-title"> <font size="5"><B> TODO.JS Application </B></font> </h5></CENTER>  
+     <CENTER><h5 class="card-title"> <font size="5"><B> TODO.JS App </B></font> </h5></CENTER>  
     <CENTER><p class="card-text"> TODO application on JS with DOM คลิกเพื่อเข้าดู  </p></CENTER>
     <CENTER> <a href=" indextodo.html " class="btn btn-danger"> CLICK</a> </CENTER>
     </div>
