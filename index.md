@@ -42,7 +42,7 @@
     <div class="card-body">
       <h5 class="card-title">application on JS with DOM</h5>
       <p class="card-text">TODO application on JS with DOM.</p>
-      <a href="#" class="btn btn-danger">Go</a>
+      <a href="#" class="btn btn-danger">CLICK</a>
     </div>
   </div>
   </div>
