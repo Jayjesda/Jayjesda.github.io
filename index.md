@@ -82,7 +82,41 @@
     </div>
   </div>
   </div>
+
+
+  <div class="col">
+  <div class="card" style="width: 18rem;">
+   <CENTER> <img src="/img/6.jpg"> </CENTER> 
+    <div class="card-body">
+     <CENTER><h5 class="card-title"> <font size="5"><B> React To do App </B></font> </h5></CENTER>  
+    <CENTER><p class="card-text"> React To do Application    </p></CENTER>
+    <CENTER> <a href="  " class="btn btn-danger"> CLICK</a> </CENTER>
+    </div>
+  </div>
+  </div>
+
+
+  <div class="col">
+  <div class="card" style="width: 18rem;">
+   <CENTER> <img src="/img/6.jpg"> </CENTER> 
+    <div class="card-body">
+     <CENTER><h5 class="card-title"> <font size="5"><B> React and Node API </B></font> </h5></CENTER>  
+    <CENTER><p class="card-text"> React and Node API     </p></CENTER>
+    <CENTER> <a href="  " class="btn btn-danger"> CLICK</a> </CENTER>
+    </div>
+  </div>
+  </div>
   
+  <div class="col">
+  <div class="card" style="width: 18rem;">
+   <CENTER> <img src="/img/6.jpg"> </CENTER> 
+    <div class="card-body">
+     <CENTER><h5 class="card-title"> <font size="5"><B> Node JS API </B></font> </h5></CENTER>  
+    <CENTER><p class="card-text"> React and Node API     </p></CENTER>
+    <CENTER> <a href="  " class="btn btn-danger"> CLICK</a> </CENTER>
+    </div>
+  </div>
+  </div>
 
 <
 
