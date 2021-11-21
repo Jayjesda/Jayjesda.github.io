@@ -1,4 +1,6 @@
 
+
+
 <body>
   
   <nav class="navbar navbar-light bg-light">
@@ -48,7 +50,8 @@
       <img src="https://cdn.pixabay.com/photo/2021/11/10/18/21/woman-6784555_960_720.jpg" class="card-img-top" alt="..." />
       <div class="card-body">
         <h5 class="card-title">React and Node API งานคู่</h5>
-
+        <p class="card-text">แอปสมัครงาน สามารถ เพิ่มลบแก้ไข ข้อมูลผู้สมัครงานได้ เอฟทำBackend  ธนัท ภูระบัตรทำFronend ไฟล์ App.js สุธิการ ภูศักดิ์ ทำFronend ไฟล์ App2.js.</p>
+        <a href="https://github.com/crownvictoriaP71/React-and-Node-API-" class="btn btn-primary">Go</a>
       </div>
     </div>
     </div>
@@ -59,7 +62,7 @@
       <div class="card-body">
         <h5 class="card-title">Laravel web application</h5>
         <p class="card-text">พัฒนาด้วย Laravel framework หรือเทคโนโลยีอื่นที่นักศึกษาถนัด.</p>
-       
+        <a href="https://github.com/crownvictoriaP71/Laravel-web-application" class="btn btn-primary">Go</a>
       </div>
     </div>
     </div>
