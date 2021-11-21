@@ -61,7 +61,7 @@
 
 <div class="col">
   <div class="card" style="width: 18rem;">
-   <CENTER> <img src="/img/2.jpg"> </CENTER> 
+   <CENTER> <img src="/img/5.jpg"> </CENTER> 
     <div class="card-body">
      <CENTER><h5 class="card-title"> <font size="5"><B> FINAL PROJECT </B></font> </h5></CENTER>  
     <CENTER><p class="card-text"> PROJECT FINAL  WEB PROGRAMING GOOD LUCK _/\_  </p></CENTER>
