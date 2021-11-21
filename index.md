@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<meta name="generator" content="Jekyll v3.9.0" />
-
-<meta property="og:locale" content="en_US" />
-<meta name="twitter:card" content="summary" />
-<script type="application/ld+json"></script>
-
 
   </head>
   <body>
@@ -45,8 +31,6 @@
   <img src="https://https://sv1.picz.in.th/images/2021/11/21/6B48wQ.jpg" class="card-img-top" alt="..." />
   <div class="card-body">
     <h5 class="card-title">About me</h5>
-    <p class="card-text">สร้างและอัพหน้าโปรไฟล์ของตนเองลงใน GitHub Page.</p>
-    <a href="https://crownvictoriap71.github.io/aboutme.html" class="btn btn-primary">Go</a>
   </div>
 </div>
 </div>
