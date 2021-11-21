@@ -7,7 +7,7 @@
 
 <body style="background-color:rgb(0, 0, 0);">
 <body background="/img/777.gif" ></body>
-<center> <img src="/img/7895.gif" width="450px" height="450px"> 
+<center> <img src="/img/7895.gif" width="250px" height="250px"> 
     
 
 
