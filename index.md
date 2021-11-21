@@ -1,11 +1,9 @@
-## Welcome to Jayjesda GitHub Pages
-<img src="https://i.pinimg.com/originals/d8/b8/06/d8b8069d405d24fbce7dd432b0c845f6.png"  alt="Branching">
+## Welcome to Jesda Jay GitHub Pages
 
 ```markdown
 Syntax highlighted code block
 
 # 1
-
 HELLO TO JESDA WORDCODE
 
 ## Header 2
@@ -22,11 +20,10 @@ HELLO TO JESDA WORDCODE
 
 [Link](url) and ![Image](src)
 ```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-
-
 
 ### Support or Contact
 
