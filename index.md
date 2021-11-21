@@ -30,7 +30,7 @@
   <div class="card-body">
     <h5 class="card-title"><B>About me</B></h5>
     <p class="card-text"> นายเจษฎาพร แสงสีงาม 623410003-8</p>
-     <a href="#" class="btn btn-danger"> CLICK</a>
+     <a href=" Aboutme.html " class="btn btn-danger"> CLICK</a>
   </div>
 </div>
 </div>
