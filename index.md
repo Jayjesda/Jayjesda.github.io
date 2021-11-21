@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,11 +9,9 @@
 <body background="/img/777.gif" ></body>
 <center> <img src="/img/7895.gif" width="450px" height="450px"> 
     
-    
+
 
 </center>
-
-
 
 </body >
 </html>
