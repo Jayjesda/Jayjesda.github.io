@@ -29,7 +29,7 @@
   <div class="card-body">
     <h5 class="card-title"><B>About me</B></h5>
     <p class="card-text">TODO application on JS with DOM.</p>
-     <a href="#" class="btn btn-primary"> CLICK</a>
+     <a href="#" class="btn btn-danger"> CLICK</a>
   </div>
 </div>
 </div>
@@ -41,7 +41,7 @@
     <div class="card-body">
       <h5 class="card-title">application on JS with DOM</h5>
       <p class="card-text">TODO application on JS with DOM.</p>
-      <a href="#" class="btn btn-primary">Go</a>
+      <a href="#" class="btn btn-danger">Go</a>
     </div>
   </div>
   </div>
