@@ -23,7 +23,7 @@
 
   <nav class="navbar navbar-light bg-light">
     <div class="container-fluid">
-      <span class="navbar-brand mb-0 h1">935304 Web Application Programming</span>
+      <span class="navbar-brand mb-0 h1">935304 Web  Programming</span>
     </div>
   </nav>
 <br /><br /><br /><br />
