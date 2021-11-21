@@ -29,7 +29,7 @@
   <CENTER> <img src="/img/GoDuck.png" width="100px" height="120px"> </CENTER> 
   <div class="card-body">
     <h5 class="card-title"><B>About me</B></h5>
-    <p class="card-text">TODO application on JS with DOM.</p>
+    <p class="card-text"> นายเจษฎาพร แสงสีงาม 623410003-8</p>
      <a href="#" class="btn btn-danger"> CLICK</a>
   </div>
 </div>
