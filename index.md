@@ -54,7 +54,7 @@
      <CENTER><h5 class="card-title"> <font size="5"><B> TODO.JS Application </B></font> </h5></CENTER>  
     <CENTER><p class="card-text"> TODO application on JS with DOM
     กดคลิกเพื่อเข้าดู  </p></CENTER>
-    <CENTER> <a href=" index3d.html " class="btn btn-danger"> CLICK</a> </CENTER>
+    <CENTER> <a href=" indextodo.html " class="btn btn-danger"> CLICK</a> </CENTER>
     </div>
   </div>
   </div>
