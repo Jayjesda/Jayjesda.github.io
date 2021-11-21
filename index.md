@@ -38,7 +38,7 @@
 
 <div class="col">
   <div class="card" style="width: 18rem;">
-   <CENTER> <img src="/img/3.jpg"> </CENTER> 
+   <CENTER> <img src="/img/4.jpg"> </CENTER> 
     <div class="card-body">
      <CENTER><h5 class="card-title"> <font size="5"><B> 3D Training </B></font> </h5></CENTER>  
     <CENTER><p class="card-text"> 3D Training คลิกเข้าชมได้เลย
