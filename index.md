@@ -14,24 +14,6 @@
         <h1 class="py-4">935 304 Web Application</h1>
         <p> Web Application course</p>
 
-        <div class="row">
-            <div class="col-sm-12 col-md-6 col-lg-3">
-                <div class="card mb-3">
-                    <img src="img/N.jpg" height="300" class="card-img-top" alt="..." />
-                    <div class="card-body">
-                        <h5 class="nam-link" href="aboutme.html">About me page</h5>
-                        <p class="card-text">
-                        </p>
-                        <a
-                            href="https://github.com/suteekan-12/suteekan-12.github.io">https://github.com/suteekan-12/suteekan-12.github.io</a>
-                        <a class="nav-link" href="aboutme.html">about me</a>
-
-                        <p class="card-text">
-                            <small class="text-muted"></small>
-                        </p>
-                    </div>
-                </div>
-            </div>
             <div class="col-sm-12 col-md-6 col-lg-3">
                 <div class="card mb-3">
                     <img src="https://picsum.photos/200" class="card-img-top" alt="..." />
