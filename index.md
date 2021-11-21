@@ -25,7 +25,7 @@
 <div class="row row-cols-1 row-cols-md-4 g-3">
   <div class="col">
 <div class="card" style="width: 18rem;">
-  <img src="/img/7895.gif" width="150px" height="150px"> 
+  <img src="/img/GoDuck.png" width="200px" height="250px"> 
   <div class="card-body">
     <h5 class="card-title"><B>About me</B></h5>
     <p class="card-text">TODO application on JS with DOM.</p>
@@ -37,7 +37,7 @@
   
 <div class="col">
   <div class="card" style="width: 18rem;">
-    <img src="https://cdn.pixabay.com/photo/2021/11/10/18/21/woman-6784555_960_720.jpg" class="card-img-top" alt="..." />
+    <img src="/img/GoDuck.png" width="200px" height="250px"> 
     <div class="card-body">
       <h5 class="card-title">application on JS with DOM</h5>
       <p class="card-text">TODO application on JS with DOM.</p>
@@ -49,7 +49,7 @@
 
   <div class="col">
     <div class="card" style="width: 18rem;">
-      <img src="https://cdn.pixabay.com/photo/2021/11/10/18/21/woman-6784555_960_720.jpg" class="card-img-top" alt="..." />
+      <img src="/img/GoDuck.png" width="200px" height="250px"> 
       <div class="card-body">
         <h5 class="card-title">React Shopping Cart</h5>
         <p class="card-text">React Shopping Cart.</p>
@@ -61,7 +61,7 @@
 
   <div class="col">
     <div class="card" style="width: 18rem;">
-      <img src="https://cdn.pixabay.com/photo/2021/11/10/18/21/woman-6784555_960_720.jpg" class="card-img-top" alt="..." />
+      <img src="/img/GoDuck.png" width="200px" height="250px"> 
       <div class="card-body">
         <h5 class="card-title">React and Node API งานคู่</h5>
         <p class="card-text"></p>
@@ -73,7 +73,7 @@
 
 <div class="col">
     <div class="card" style="width: 18rem;">
-      <img src="https://cdn.pixabay.com/photo/2021/11/10/18/21/woman-6784555_960_720.jpg" class="card-img-top" alt="..." />
+      <img src="/img/GoDuck.png" width="200px" height="250px"> 
       <div class="card-body">
         <h5 class="card-title">React and Node API งานคู่</h5>
         <p class="card-text"></p>
