@@ -21,11 +21,6 @@
   <body style="background-color:rgb(0, 0, 0);">
 <body background="/img/777.gif" ></body>
 
-
-  <H1> <font face = "GOTHAM" size = "15"color=FFFFFF> 935304 Web  Programming </font> </H1>
- 
-
-<br /><br /><br /><br />
 <div class="container ">
 <div class="row row-cols-1 row-cols-md-4 g-3">
   <div class="col">
