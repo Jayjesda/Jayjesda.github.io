@@ -1,6 +1,6 @@
 ## 935304 WEB PROGRAMING
 <center> 
-<img src="/img/7895.gif" width="450px" height="450px">   
+<img src="/img/7895.gif" width="150px" height="150px">   
 </center>
 
 <html lang="en">
