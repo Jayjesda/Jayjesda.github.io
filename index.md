@@ -42,7 +42,7 @@
     <div class="card-body">
      <CENTER><h5 class="card-title"> <font size="5"><B> 3D Training </B></font> </h5></CENTER>  
     <CENTER><p class="card-text"> 3D Training คลิกเข้าชมได้เลย</p></CENTER>
-    <CENTER> <a href=" Aboutme.html " class="btn btn-danger"> CLICK</a> </CENTER>
+    <CENTER> <a href=" index3d.html " class="btn btn-danger"> CLICK</a> </CENTER>
     </div>
   </div>
   </div>
