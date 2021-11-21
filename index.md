@@ -98,7 +98,7 @@
 
   <div class="col">
   <div class="card" style="width: 18rem;">
-   <CENTER> <img src="/img/6.jpg"> </CENTER> 
+   <CENTER> <img src="/img/8.jpg"> </CENTER> 
     <div class="card-body">
      <CENTER><h5 class="card-title"> <font size="5"><B> React & Node API </B></font> </h5></CENTER>  
     <CENTER><p class="card-text"> React and Node API     </p></CENTER>
