@@ -22,10 +22,9 @@
 <body background="/img/777.gif" ></body>
 
   <nav class="navbar navbar-light bg-light">
-    <div class="container-fluid">
-      <span class="navbar-brand mb-0 h1">935304 Web  Programming</span>
-    </div>
+    <span class="navbar-brand mb-0 h1">935304 Web  Programming</span>
   </nav>
+  
 <br /><br /><br /><br />
 <div class="container ">
 <div class="row row-cols-1 row-cols-md-4 g-3">
