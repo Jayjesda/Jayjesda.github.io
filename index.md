@@ -31,7 +31,7 @@
 <div class="row row-cols-1 row-cols-md-4 g-3">
   <div class="col">
 <div class="card" style="width: 18rem;">
-  <img src="https://https://sv1.picz.in.th/images/2021/11/21/6B48wQ.jpg" class="card-img-top" alt="..." />
+  <img src="/img/7895.gif" width="450px" height="450px" class="card-img-top" alt="..." />
   <div class="card-body">
     <h5 class="card-title">About me</h5>
   </div>
