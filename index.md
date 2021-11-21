@@ -26,7 +26,8 @@
 <div class="row row-cols-1 row-cols-md-4 g-3">
   <div class="col">
 <div class="card" style="width: 18rem;">
-  <CENTER> <img src="/img/1.jpg" width="100px" height="120px"> </CENTER> 
+
+  <CENTER> <img src="/img/1.jpg" width="150px" height="200px"> </CENTER> 
   <div class="card-body">
     <h5 class="card-title"><B>About me</B></h5>
     <p class="card-text"> นายเจษฎาพร แสงสีงาม 623410003-8</p>
@@ -37,7 +38,7 @@
 
 <div class="col">
   <div class="card" style="width: 18rem;">
-   <CENTER> <img src="/img/GoDuck.png" width="200px" height="235px"> </CENTER> 
+   <CENTER> <img src="/img/GoDuck.png" width="100px" height="120px"> </CENTER> 
     <div class="card-body">
       <h5 class="card-title">application on JS with DOM</h5>
       <p class="card-text">TODO application on JS with DOM.</p>
