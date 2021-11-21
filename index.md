@@ -27,7 +27,7 @@
   <div class="col">
 <div class="card" style="width: 18rem;">
 
-  <CENTER> <img src="/img/1.jpg" width="150px" height="200px"> </CENTER> 
+  <CENTER> <img src="/img/giphy9.gif" width="100px" height="120px"> </CENTER> 
   <div class="card-body">
     <CENTER><h5 class="card-title"><B>About me</B></h5></CENTER>
     <CENTER><p class="card-text"> เกี่ยวกับตัวกระผมเองงับ</p></CENTER>
