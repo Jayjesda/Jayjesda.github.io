@@ -51,7 +51,7 @@
     <div class="card" style="width: 18rem;">
     <CENTER> <img src="/img/GoDuck.png" width="100px" height="120px"> </CENTER> 
       <div class="card-body">
-        <h5 class="card-title">React Shopping Cart</h5>
+        <h5 class="card-title"> TODO application on JS with DOM </h5>
         <p class="card-text">React Shopping Cart.</p>
         <a href="#" class="btn btn-danger">Go</a>
       </div>
