@@ -1,16 +1,13 @@
 ## 935304 WEB PROGRAMING
 
-    <h1>
-    <p align="left"> <img src="/img/7895.gif" width="150px"   height="150px">   
-    </p>
-     </h1>
-
 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <p align="left"> <img src="/img/7895.gif" width="150px"   height="150px">   
+    </p>
 </head>
 
 <body>
