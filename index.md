@@ -6,30 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>crownvictoriap71.github.io</title>
 <meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="crownvictoriap71.github.io" />
+
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://crownvictoriap71.github.io/" />
-<meta property="og:url" content="https://crownvictoriap71.github.io/" />
-<meta property="og:site_name" content="crownvictoriap71.github.io" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="crownvictoriap71.github.io" />
-<script type="application/ld+json">
-{"url":"https://crownvictoriap71.github.io/","@type":"WebSite","headline":"crownvictoriap71.github.io","name":"crownvictoriap71.github.io","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
+<script type="application/ld+json"></script>
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=cd92078a1ead2a020493da54ca9739597f0be2f8">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
 
   </head>
   <body>
