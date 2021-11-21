@@ -37,7 +37,7 @@
 
 <div class="col">
   <div class="card" style="width: 18rem;">
-    <img src="/img/GoDuck.png" width="200px" height="250px"> 
+   <CENTER> <img src="/img/GoDuck.png" width="100px" height="120px"> </CENTER> 
     <div class="card-body">
       <h5 class="card-title">application on JS with DOM</h5>
       <p class="card-text">TODO application on JS with DOM.</p>
@@ -48,7 +48,7 @@
 
   <div class="col">
     <div class="card" style="width: 18rem;">
-      <img src="/img/GoDuck.png" width="200px" height="250px"> 
+    <CENTER> <img src="/img/GoDuck.png" width="100px" height="120px"> </CENTER> 
       <div class="card-body">
         <h5 class="card-title">React Shopping Cart</h5>
         <p class="card-text">React Shopping Cart.</p>
@@ -59,7 +59,7 @@
 
   <div class="col">
     <div class="card" style="width: 18rem;">
-      <img src="/img/GoDuck.png" width="200px" height="250px"> 
+     <CENTER> <img src="/img/GoDuck.png" width="100px" height="120px"> </CENTER> 
       <div class="card-body">
         <h5 class="card-title">React and Node API งานคู่</h5>
         <p class="card-text"></p>
@@ -70,7 +70,7 @@
 
 <div class="col">
     <div class="card" style="width: 18rem;">
-      <img src="/img/GoDuck.png" width="200px" height="250px"> 
+      <CENTER> <img src="/img/GoDuck.png" width="100px" height="120px"> </CENTER> 
       <div class="card-body">
         <h5 class="card-title">React and Node API งานคู่</h5>
         <p class="card-text"></p>
