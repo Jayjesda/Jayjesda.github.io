@@ -29,7 +29,7 @@
 
   <CENTER> <img src="/img/1.jpg"> </CENTER> 
   <div class="card-body">
-    <CENTER><h5 class="card-title"> <font size="35"><B>About me</B></font> </h5></CENTER>  
+    <CENTER><h5 class="card-title"> <font size="20"><B>About me</B></font> </h5></CENTER>  
     <CENTER><p class="card-text"> เกี่ยวกับตัวกระผมเองงับ กดเข้ามาดูได้เลย</p><br></CENTER>
     <CENTER> <a href=" Aboutme.html " class="btn btn-danger"> CLICK</a> </CENTER>
   </div>
