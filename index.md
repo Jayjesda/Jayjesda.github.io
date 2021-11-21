@@ -37,7 +37,7 @@
 
 <div class="col">
   <div class="card" style="width: 18rem;">
-   <CENTER> <img src="/img/GoDuck.png" width="100px" height="120px"> </CENTER> 
+   <CENTER> <img src="/img/GoDuck.png" width="200px" height="235px"> </CENTER> 
     <div class="card-body">
       <h5 class="card-title">application on JS with DOM</h5>
       <p class="card-text">TODO application on JS with DOM.</p>
