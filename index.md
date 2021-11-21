@@ -29,8 +29,8 @@
 
   <CENTER> <img src="/img/1.jpg" width="150px" height="200px"> </CENTER> 
   <div class="card-body">
-    <h5 class="card-title"><B>About me</B></h5>
-    <p class="card-text"> เกี่ยวกับตัวกระผมเองงับ</p>
+    <CENTER><h5 class="card-title"><B>About me</B></h5></CENTER>
+    <CENTER><p class="card-text"> เกี่ยวกับตัวกระผมเองงับ</p></CENTER>
     <CENTER> <a href=" Aboutme.html " class="btn btn-danger"> CLICK</a> </CENTER>
   </div>
 </div>
