@@ -59,17 +59,18 @@
   </div>
   </div>
 
+<div class="col">
+  <div class="card" style="width: 18rem;">
+   <CENTER> <img src="/img/2.jpg"> </CENTER> 
+    <div class="card-body">
+     <CENTER><h5 class="card-title"> <font size="5"><B> FINAL PROJECT </B></font> </h5></CENTER>  
+    <CENTER><p class="card-text"> PROJECT FINAL  WEB PROGRAMING  </p></CENTER>
+    <CENTER> <a href="  " class="btn btn-danger"> CLICK</a> </CENTER>
+    </div>
+  </div>
+  </div>
 
-  <div class="col">
-    <div class="card" style="width: 18rem;">
-     <CENTER> <img src="/img/GoDuck.png" width="100px" height="120px"> </CENTER> 
-      <div class="card-body">
-        <h5 class="card-title">React and Node API งานคู่</h5>
-        <p class="card-text"></p>
-        <a href="https://github.com/crownvictoriaP71/React-and-Node-API-" class="btn btn-danger">Go</a>
-      </div>
-    </div>
-    </div>
+  
 
 <div class="col">
     <div class="card" style="width: 18rem;">
