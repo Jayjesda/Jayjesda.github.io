@@ -31,7 +31,7 @@
 <div class="row row-cols-1 row-cols-md-4 g-3">
   <div class="col">
 <div class="card" style="width: 18rem;">
-  <img src="/img/7895.gif" width="450px" height="450px"> 
+  <img src="/img/7895.gif" width="150px" height="150px"> 
   <div class="card-body">
     <h5 class="card-title"><B>About me</B></h5>
     <p class="card-text">TODO application on JS with DOM.</p>
