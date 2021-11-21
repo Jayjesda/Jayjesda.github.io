@@ -51,7 +51,7 @@
   <div class="card" style="width: 18rem;">
    <CENTER> <img src="/img/GoDuck.png" width="100px" height="120px"> </CENTER> 
     <div class="card-body">
-     <CENTER><h5 class="card-title"> <font size="5"><B> 3D Training </B></font> </h5></CENTER>  
+     <CENTER><h5 class="card-title"> <font size="5"><B> TODO.JS Application </B></font> </h5></CENTER>  
     <CENTER><p class="card-text"> TODO application on JS with DOM </p></CENTER>
     <CENTER> <a href=" index3d.html " class="btn btn-danger"> CLICK</a> </CENTER>
     </div>
