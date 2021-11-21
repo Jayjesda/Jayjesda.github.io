@@ -34,6 +34,7 @@
   <img src="/img/7895.gif" width="450px" height="450px"> 
   <div class="card-body">
     <h5 class="card-title">About me</h5>
+     <a href="#" class="btn btn-primary"> CLICK</a>
   </div>
 </div>
 </div>
