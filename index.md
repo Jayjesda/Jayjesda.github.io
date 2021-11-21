@@ -33,7 +33,8 @@
 <div class="card" style="width: 18rem;">
   <img src="/img/7895.gif" width="450px" height="450px"> 
   <div class="card-body">
-    <h5 class="card-title">About me</h5>
+    <h5 class="card-title"><B>About me</B></h5>
+    <p class="card-text">TODO application on JS with DOM.</p>
      <a href="#" class="btn btn-primary"> CLICK</a>
   </div>
 </div>
