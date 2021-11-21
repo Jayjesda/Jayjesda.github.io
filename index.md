@@ -40,9 +40,9 @@
   <div class="card" style="width: 18rem;">
    <CENTER> <img src="/img/GoDuck.png" width="100px" height="120px"> </CENTER> 
     <div class="card-body">
-      <h5 class="card-title">application on JS with DOM</h5>
-      <p class="card-text">TODO application on JS with DOM.</p>
-      <a href="#" class="btn btn-danger">CLICK</a>
+     <CENTER><h5 class="card-title"> <font size="5"><B> 3D Training </B></font> </h5></CENTER>  
+    <CENTER><p class="card-text"> 3D Training คลิกเข้าชมได้เลย</p></CENTER>
+    <CENTER> <a href=" Aboutme.html " class="btn btn-danger"> CLICK</a> </CENTER>
     </div>
   </div>
   </div>
