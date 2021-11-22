@@ -78,7 +78,7 @@
     <div class="card-body">
      <CENTER><h5 class="card-title"> <font size="5"><B> React shopping </B></font> </h5></CENTER>  
     <CENTER><p class="card-text"> React shopping cart  >_<     </p></CENTER>
-    <CENTER> <a href="  " class="btn btn-danger"> CLICK</a> </CENTER>
+    <CENTER> <a href="https://github.com/Jayjesda/React-shopping" class="btn btn-danger"> CLICK</a> </CENTER>
     </div>
   </div>
   </div>
