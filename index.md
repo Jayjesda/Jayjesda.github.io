@@ -66,7 +66,7 @@
     <div class="card-body">
      <CENTER><h5 class="card-title"> <font size="5"><B> FINAL PROJECT </B></font> </h5></CENTER>  
     <CENTER><p class="card-text"> PROJECT FINAL  WEB PROGRAMING GOOD LUCK _/\_  </p></CENTER>
-    <CENTER> <a href="  " class="btn btn-danger"> ยังไม่เสร็จ</a> </CENTER>
+    <CENTER> <a href=" https://github.com/Jayjesda/FinalProject " class="btn btn-danger"> CLICK</a> </CENTER>
     </div>
   </div>
   </div>
